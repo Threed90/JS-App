@@ -1,2 +1,4 @@
 # JS-App
-The second module of the SoftUni JS course
+## SoftUni sourse for JS application:
+- HTTP, REST, AJAX;
+- Asychronous programming; 
