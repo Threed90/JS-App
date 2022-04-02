@@ -7,3 +7,8 @@
 - Authorization;
 - Fetch API;
 - REST API handling;
+- Server-Side and Client-Side Rendering;
+- Architecture and moduling;
+- Playwright (end to end testing);
+- Templating and routing (lit-html and page.js);
+
